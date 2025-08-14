@@ -1,2 +1,3 @@
 # OIBSIP_python_taskno2
-OIBSIP repository containing internship work files - python programming
+- OIBSIP repository containing internship work files - python programming
+- task 2 BMI calculator (see project report)
